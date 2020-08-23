@@ -9,7 +9,5 @@
 
 
 # Reference
-%--------------------------------------------------------------------------
-%%.....A locally adaptive zooming algorithm for digital images
-%%%     S. Battiato, G. Gallo, F. Stanco*
-%%%     Dipartimento di Matematica ed Informatica, Universita` di Catania, Viale A. Doria 6, Catania 95125, Italy
+A locally adaptive zooming algorithm for digital images
+ S. Battiato, G. Gallo, F. Stanco, Dipartimento di Matematica ed Informatica, Universita` di Catania, Viale A. Doria 6, Catania 95125, Italy
